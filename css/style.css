@@ -110,6 +110,10 @@ li {
    text-decoration: underline;
 }
 
+.header-link:first-child {
+   color: #404bbf;
+}
+
 .contacts-list {
    display: flex;
    justify-content: space-between;
